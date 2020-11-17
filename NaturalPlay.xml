@@ -1,0 +1,690 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RCN HD">
+    <display-name lang="es">RCN HD</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL RCN">
+    <display-name lang="es">CANAL RCN</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/cf484136df087e299aa4f0783c401289.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CARACOL HD">
+    <display-name lang="es">CARACOL HD</display-name>
+    <url>http://www.claro.com</url>
+  </channel>
+  <channel id="CANAL CARACOL">
+    <display-name lang="es">CANAL CARACOL</display-name>
+    <icon src="http://cdn-std-1.sibasa.netdna-cdn.com/co/57af4b8a1f58bc063cd09f1a9e074b20.jpg" />
+    <url>http://www.claro.com</url>
+  </channel>
+  <programme start="20201117000000 +0000" stop="20201117010000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201117010000 +0000" stop="20201117035000 +0000" channel="CANAL RCN">
+    <title lang="es">Transmisión Especial Miss Universe Colombia 2020 - 2021</title>
+  </programme>
+  <programme start="20201117035000 +0000" stop="20201117043000 +0000" channel="CANAL RCN">
+    <title lang="es">Historias Clasificadas</title>
+  </programme>
+  <programme start="20201117043000 +0000" stop="20201117051000 +0000" channel="CANAL RCN">
+    <title lang="es">Historias Clasificadas</title>
+  </programme>
+  <programme start="20201117051000 +0000" stop="20201117054000 +0000" channel="CANAL RCN">
+    <title lang="es">Tu Tele</title>
+  </programme>
+  <programme start="20201117054000 +0000" stop="20201117062000 +0000" channel="CANAL RCN">
+    <title lang="es">El Comandante</title>
+  </programme>
+  <programme start="20201117062000 +0000" stop="20201117071000 +0000" channel="CANAL RCN">
+    <title lang="es">Secretos Del Paraíso</title>
+  </programme>
+  <programme start="20201117071000 +0000" stop="20201117080000 +0000" channel="CANAL RCN">
+    <title lang="es">En Los Tacones De Eva</title>
+  </programme>
+  <programme start="20201117080000 +0000" stop="20201117084000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201117084000 +0000" stop="20201117091000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+  </programme>
+  <programme start="20201117091000 +0000" stop="20201117095000 +0000" channel="CANAL RCN">
+    <title lang="es">El Mundo Del Campo</title>
+  </programme>
+  <programme start="20201117095000 +0000" stop="20201117103000 +0000" channel="CANAL RCN">
+    <title lang="es">La Rosa De Guadalupe</title>
+  </programme>
+  <programme start="20201117103000 +0000" stop="20201117143000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201117143000 +0000" stop="20201117153000 +0000" channel="CANAL RCN">
+    <title lang="es">Amor En Custodia</title>
+  </programme>
+  <programme start="20201117153000 +0000" stop="20201117173000 +0000" channel="CANAL RCN">
+    <title lang="es">Vuelta A Colombia Masculina 2020</title>
+  </programme>
+  <programme start="20201117173000 +0000" stop="20201117193000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201117193000 +0000" stop="20201117203000 +0000" channel="CANAL RCN">
+    <title lang="es">Soy Tu Dueña</title>
+  </programme>
+  <programme start="20201117203000 +0000" stop="20201117213000 +0000" channel="CANAL RCN">
+    <title lang="es">Te Doy La Vida</title>
+  </programme>
+  <programme start="20201117213000 +0000" stop="20201118000000 +0000" channel="CANAL RCN">
+    <title lang="es">La Rosa De Guadalupe</title>
+  </programme>
+  <programme start="20201118000000 +0000" stop="20201118010000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201118010000 +0000" stop="20201118030000 +0000" channel="CANAL RCN">
+    <title lang="es">Yo Soy Betty La Fea</title>
+  </programme>
+  <programme start="20201118030000 +0000" stop="20201118040000 +0000" channel="CANAL RCN">
+    <title lang="es">La Hija Del Mariachi</title>
+  </programme>
+  <programme start="20201118040000 +0000" stop="20201118050000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201118050000 +0000" stop="20201118055000 +0000" channel="CANAL RCN">
+    <title lang="es">La Noche</title>
+  </programme>
+  <programme start="20201118055000 +0000" stop="20201118063000 +0000" channel="CANAL RCN">
+    <title lang="es">Anónima</title>
+  </programme>
+  <programme start="20201118063000 +0000" stop="20201118071000 +0000" channel="CANAL RCN">
+    <title lang="es">Secretos Del Paraíso</title>
+  </programme>
+  <programme start="20201118071000 +0000" stop="20201118080000 +0000" channel="CANAL RCN">
+    <title lang="es">En Los Tacones De Eva</title>
+  </programme>
+  <programme start="20201118080000 +0000" stop="20201118084000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201118084000 +0000" stop="20201118091000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+  </programme>
+  <programme start="20201118091000 +0000" stop="20201118095000 +0000" channel="CANAL RCN">
+    <title lang="es">El Mundo Del Campo</title>
+  </programme>
+  <programme start="20201118095000 +0000" stop="20201118103000 +0000" channel="CANAL RCN">
+    <title lang="es">La Rosa De Guadalupe</title>
+  </programme>
+  <programme start="20201118103000 +0000" stop="20201118143000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201118143000 +0000" stop="20201118153000 +0000" channel="CANAL RCN">
+    <title lang="es">Amor En Custodia</title>
+  </programme>
+  <programme start="20201118153000 +0000" stop="20201118173000 +0000" channel="CANAL RCN">
+    <title lang="es">Vuelta A Colombia Masculina 2020</title>
+  </programme>
+  <programme start="20201118173000 +0000" stop="20201118193000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201118193000 +0000" stop="20201118203000 +0000" channel="CANAL RCN">
+    <title lang="es">Soy Tu Dueña</title>
+  </programme>
+  <programme start="20201118203000 +0000" stop="20201118213000 +0000" channel="CANAL RCN">
+    <title lang="es">Te Doy La Vida</title>
+  </programme>
+  <programme start="20201118213000 +0000" stop="20201119000000 +0000" channel="CANAL RCN">
+    <title lang="es">La Rosa De Guadalupe</title>
+  </programme>
+  <programme start="20201119000000 +0000" stop="20201119010000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201119010000 +0000" stop="20201119030000 +0000" channel="CANAL RCN">
+    <title lang="es">Yo Soy Betty La Fea</title>
+  </programme>
+  <programme start="20201119030000 +0000" stop="20201119040000 +0000" channel="CANAL RCN">
+    <title lang="es">La Hija Del Mariachi</title>
+  </programme>
+  <programme start="20201119040000 +0000" stop="20201119050000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201119050000 +0000" stop="20201119055000 +0000" channel="CANAL RCN">
+    <title lang="es">La Noche</title>
+  </programme>
+  <programme start="20201119055000 +0000" stop="20201119063000 +0000" channel="CANAL RCN">
+    <title lang="es">Anónima</title>
+  </programme>
+  <programme start="20201119063000 +0000" stop="20201119071000 +0000" channel="CANAL RCN">
+    <title lang="es">Secretos Del Paraíso</title>
+  </programme>
+  <programme start="20201119071000 +0000" stop="20201119080000 +0000" channel="CANAL RCN">
+    <title lang="es">En Los Tacones De Eva</title>
+  </programme>
+  <programme start="20201119080000 +0000" stop="20201119084000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201119084000 +0000" stop="20201119091000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+  </programme>
+  <programme start="20201119091000 +0000" stop="20201119095000 +0000" channel="CANAL RCN">
+    <title lang="es">El Mundo Del Campo</title>
+  </programme>
+  <programme start="20201119095000 +0000" stop="20201119103000 +0000" channel="CANAL RCN">
+    <title lang="es">La Rosa De Guadalupe</title>
+  </programme>
+  <programme start="20201119103000 +0000" stop="20201119143000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201119143000 +0000" stop="20201119153000 +0000" channel="CANAL RCN">
+    <title lang="es">Amor En Custodia</title>
+  </programme>
+  <programme start="20201119153000 +0000" stop="20201119173000 +0000" channel="CANAL RCN">
+    <title lang="es">Vuelta A Colombia Masculina 2020</title>
+  </programme>
+  <programme start="20201119173000 +0000" stop="20201119193000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201119193000 +0000" stop="20201119203000 +0000" channel="CANAL RCN">
+    <title lang="es">Soy Tu Dueña</title>
+  </programme>
+  <programme start="20201119203000 +0000" stop="20201119213000 +0000" channel="CANAL RCN">
+    <title lang="es">Te Doy La Vida</title>
+  </programme>
+  <programme start="20201119213000 +0000" stop="20201120000000 +0000" channel="CANAL RCN">
+    <title lang="es">La Rosa De Guadalupe</title>
+  </programme>
+  <programme start="20201120000000 +0000" stop="20201120003000 +0000" channel="CANAL RCN">
+    <title lang="es">Inf. De La Camara</title>
+  </programme>
+  <programme start="20201120003000 +0000" stop="20201120010000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201120010000 +0000" stop="20201120030000 +0000" channel="CANAL RCN">
+    <title lang="es">Yo Soy Betty La Fea</title>
+  </programme>
+  <programme start="20201120030000 +0000" stop="20201120040000 +0000" channel="CANAL RCN">
+    <title lang="es">La Hija Del Mariachi</title>
+  </programme>
+  <programme start="20201120040000 +0000" stop="20201120050000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201120050000 +0000" stop="20201120055000 +0000" channel="CANAL RCN">
+    <title lang="es">La Noche</title>
+  </programme>
+  <programme start="20201120055000 +0000" stop="20201120062000 +0000" channel="CANAL RCN">
+    <title lang="es">Contacto Astral</title>
+  </programme>
+  <programme start="20201120062000 +0000" stop="20201120070000 +0000" channel="CANAL RCN">
+    <title lang="es">Anónima</title>
+  </programme>
+  <programme start="20201120070000 +0000" stop="20201120074000 +0000" channel="CANAL RCN">
+    <title lang="es">Secretos Del Paraíso</title>
+  </programme>
+  <programme start="20201120074000 +0000" stop="20201120080000 +0000" channel="CANAL RCN">
+    <title lang="es">En Los Tacones De Eva</title>
+  </programme>
+  <programme start="20201120080000 +0000" stop="20201120084000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201120084000 +0000" stop="20201120091000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+  </programme>
+  <programme start="20201120091000 +0000" stop="20201120095000 +0000" channel="CANAL RCN">
+    <title lang="es">El Mundo Del Campo</title>
+  </programme>
+  <programme start="20201120095000 +0000" stop="20201120103000 +0000" channel="CANAL RCN">
+    <title lang="es">La Rosa De Guadalupe</title>
+  </programme>
+  <programme start="20201120103000 +0000" stop="20201120143000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201120143000 +0000" stop="20201120153000 +0000" channel="CANAL RCN">
+    <title lang="es">Amor En Custodia</title>
+  </programme>
+  <programme start="20201120153000 +0000" stop="20201120173000 +0000" channel="CANAL RCN">
+    <title lang="es">Vuelta A Colombia Masculina 2020</title>
+  </programme>
+  <programme start="20201120173000 +0000" stop="20201120193000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201120193000 +0000" stop="20201120203000 +0000" channel="CANAL RCN">
+    <title lang="es">Soy Tu Dueña</title>
+  </programme>
+  <programme start="20201120203000 +0000" stop="20201120213000 +0000" channel="CANAL RCN">
+    <title lang="es">Te Doy La Vida</title>
+  </programme>
+  <programme start="20201120213000 +0000" stop="20201121000000 +0000" channel="CANAL RCN">
+    <title lang="es">La Rosa De Guadalupe</title>
+  </programme>
+  <programme start="20201121000000 +0000" stop="20201121010000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201121010000 +0000" stop="20201121030000 +0000" channel="CANAL RCN">
+    <title lang="es">Yo Soy Betty La Fea</title>
+  </programme>
+  <programme start="20201121030000 +0000" stop="20201121040000 +0000" channel="CANAL RCN">
+    <title lang="es">La Hija Del Mariachi</title>
+  </programme>
+  <programme start="20201121040000 +0000" stop="20201121050000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201121050000 +0000" stop="20201121055000 +0000" channel="CANAL RCN">
+    <title lang="es">La Noche</title>
+  </programme>
+  <programme start="20201121055000 +0000" stop="20201121062000 +0000" channel="CANAL RCN">
+    <title lang="es">Contacto Astral</title>
+  </programme>
+  <programme start="20201121062000 +0000" stop="20201121070000 +0000" channel="CANAL RCN">
+    <title lang="es">Anónima</title>
+  </programme>
+  <programme start="20201121070000 +0000" stop="20201121074000 +0000" channel="CANAL RCN">
+    <title lang="es">Secretos Del Paraíso</title>
+  </programme>
+  <programme start="20201121074000 +0000" stop="20201121080000 +0000" channel="CANAL RCN">
+    <title lang="es">En Los Tacones De Eva</title>
+  </programme>
+  <programme start="20201121080000 +0000" stop="20201121084000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201121084000 +0000" stop="20201121091000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+  </programme>
+  <programme start="20201121091000 +0000" stop="20201121095000 +0000" channel="CANAL RCN">
+    <title lang="es">El Mundo Del Campo</title>
+  </programme>
+  <programme start="20201121095000 +0000" stop="20201121120000 +0000" channel="CANAL RCN">
+    <title lang="es">El Chavo Animado</title>
+  </programme>
+  <programme start="20201121120000 +0000" stop="20201121123000 +0000" channel="CANAL RCN">
+    <title lang="es">Tu Tele</title>
+  </programme>
+  <programme start="20201121123000 +0000" stop="20201121140000 +0000" channel="CANAL RCN">
+    <title lang="es">Tacho Pistacho</title>
+  </programme>
+  <programme start="20201121140000 +0000" stop="20201121153000 +0000" channel="CANAL RCN">
+    <title lang="es">Tacho Pistacho</title>
+  </programme>
+  <programme start="20201121153000 +0000" stop="20201121173000 +0000" channel="CANAL RCN">
+    <title lang="es">Vuelta A Colombia Masculina 2020</title>
+  </programme>
+  <programme start="20201121173000 +0000" stop="20201121200000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201121200000 +0000" stop="20201121220000 +0000" channel="CANAL RCN">
+    <title lang="es">Nuestro Cine</title>
+  </programme>
+  <programme start="20201121220000 +0000" stop="20201122000000 +0000" channel="CANAL RCN">
+    <title lang="es">Francisco El Matemático</title>
+  </programme>
+  <programme start="20201122000000 +0000" stop="20201122010000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201122010000 +0000" stop="20201122020000 +0000" channel="CANAL RCN">
+    <title lang="es">El Joe La Leyenda</title>
+  </programme>
+  <programme start="20201122020000 +0000" stop="20201122030000 +0000" channel="CANAL RCN">
+    <title lang="es">La Tienda</title>
+  </programme>
+  <programme start="20201122030000 +0000" stop="20201122050000 +0000" channel="CANAL RCN">
+    <title lang="es">El Show De Las Estrellas</title>
+  </programme>
+  <programme start="20201122050000 +0000" stop="20201122054000 +0000" channel="CANAL RCN">
+    <title lang="es">Contacto Astral</title>
+  </programme>
+  <programme start="20201122054000 +0000" stop="20201122062000 +0000" channel="CANAL RCN">
+    <title lang="es">El Comandante</title>
+  </programme>
+  <programme start="20201122062000 +0000" stop="20201122070000 +0000" channel="CANAL RCN">
+    <title lang="es">El Comandante</title>
+  </programme>
+  <programme start="20201122070000 +0000" stop="20201122080000 +0000" channel="CANAL RCN">
+    <title lang="es">Secretos Del Paraíso</title>
+  </programme>
+  <programme start="20201122080000 +0000" stop="20201122084000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201122084000 +0000" stop="20201122095000 +0000" channel="CANAL RCN">
+    <title lang="es">Canal RCN</title>
+  </programme>
+  <programme start="20201122095000 +0000" stop="20201122123000 +0000" channel="CANAL RCN">
+    <title lang="es">El Chavo Animado</title>
+  </programme>
+  <programme start="20201122123000 +0000" stop="20201122140000 +0000" channel="CANAL RCN">
+    <title lang="es">Tacho Pistacho</title>
+  </programme>
+  <programme start="20201122140000 +0000" stop="20201122150000 +0000" channel="CANAL RCN">
+    <title lang="es">Nuestra Santa Misa</title>
+  </programme>
+  <programme start="20201122150000 +0000" stop="20201122153000 +0000" channel="CANAL RCN">
+    <title lang="es">Tacho Pistacho</title>
+  </programme>
+  <programme start="20201122153000 +0000" stop="20201122173000 +0000" channel="CANAL RCN">
+    <title lang="es">Vuelta A Colombia Masculina 2020</title>
+  </programme>
+  <programme start="20201122173000 +0000" stop="20201122200000 +0000" channel="CANAL RCN">
+    <title lang="es">Noticias RCN</title>
+  </programme>
+  <programme start="20201122200000 +0000" stop="20201122220000 +0000" channel="CANAL RCN">
+    <title lang="es">Nuestro Cine</title>
+  </programme>
+  <programme start="20201122220000 +0000" stop="20201123000000 +0000" channel="CANAL RCN">
+    <title lang="es">Francisco El Matemático</title>
+  </programme>
+  <programme start="20201117000000 +0000" stop="20201117013000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201117013000 +0000" stop="20201117023000 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Rastro</title>
+  </programme>
+  <programme start="20201117023000 +0000" stop="20201117033000 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Rastro</title>
+  </programme>
+  <programme start="20201117033000 +0000" stop="20201117043000 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Rastro</title>
+  </programme>
+  <programme start="20201117043000 +0000" stop="20201117063000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noches De Premier: Escape Plan</title>
+  </programme>
+  <programme start="20201117063000 +0000" stop="20201117091500 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20201117091500 +0000" stop="20201117100000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20201117100000 +0000" stop="20201117101400 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+  </programme>
+  <programme start="20201117101400 +0000" stop="20201117103000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+  </programme>
+  <programme start="20201117103000 +0000" stop="20201117143000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201117143000 +0000" stop="20201117160000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+  </programme>
+  <programme start="20201117160000 +0000" stop="20201117164500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Un Refugio Para El Amor</title>
+  </programme>
+  <programme start="20201117164500 +0000" stop="20201117173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Mi Marido Tiene Familia</title>
+  </programme>
+  <programme start="20201117173000 +0000" stop="20201117201500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201117201500 +0000" stop="20201117224500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Ecuador vs. Colombia (Eliminatorias Qatar)</title>
+  </programme>
+  <programme start="20201117224500 +0000" stop="20201118010000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Uruguay vs. Brasil (Eliminatorias Qatar)</title>
+  </programme>
+  <programme start="20201118010000 +0000" stop="20201118023000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Perú vs. Argentina (Eliminatorias Qatar)</title>
+  </programme>
+  <programme start="20201118023000 +0000" stop="20201118040000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20201118040000 +0000" stop="20201118043000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201118043000 +0000" stop="20201118050000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Así Va La Eliminatoria</title>
+  </programme>
+  <programme start="20201118050000 +0000" stop="20201118063000 +0000" channel="CANAL CARACOL">
+    <title lang="es">En Otra Piel</title>
+  </programme>
+  <programme start="20201118063000 +0000" stop="20201118091500 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20201118091500 +0000" stop="20201118100000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20201118100000 +0000" stop="20201118101400 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+  </programme>
+  <programme start="20201118101400 +0000" stop="20201118103000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+  </programme>
+  <programme start="20201118103000 +0000" stop="20201118143000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201118143000 +0000" stop="20201118160000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+  </programme>
+  <programme start="20201118160000 +0000" stop="20201118164500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Un Refugio Para El Amor</title>
+  </programme>
+  <programme start="20201118164500 +0000" stop="20201118173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Mi Marido Tiene Familia</title>
+  </programme>
+  <programme start="20201118173000 +0000" stop="20201118203000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201118203000 +0000" stop="20201118213000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Bella Calamidades</title>
+  </programme>
+  <programme start="20201118213000 +0000" stop="20201118221500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Lo Que La Vida Me Robó</title>
+  </programme>
+  <programme start="20201118221500 +0000" stop="20201118230000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Omer</title>
+  </programme>
+  <programme start="20201118230000 +0000" stop="20201119000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Tu Voz Estéreo</title>
+  </programme>
+  <programme start="20201119000000 +0000" stop="20201119013000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201119013000 +0000" stop="20201119023000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pasión De Gavilanes</title>
+  </programme>
+  <programme start="20201119023000 +0000" stop="20201119040000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20201119040000 +0000" stop="20201119043000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201119043000 +0000" stop="20201119050000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Preso No.1</title>
+  </programme>
+  <programme start="20201119050000 +0000" stop="20201119063000 +0000" channel="CANAL CARACOL">
+    <title lang="es">En Otra Piel</title>
+  </programme>
+  <programme start="20201119063000 +0000" stop="20201119091500 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20201119091500 +0000" stop="20201119100000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20201119100000 +0000" stop="20201119101400 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+  </programme>
+  <programme start="20201119101400 +0000" stop="20201119103000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+  </programme>
+  <programme start="20201119103000 +0000" stop="20201119143000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201119143000 +0000" stop="20201119160000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+  </programme>
+  <programme start="20201119160000 +0000" stop="20201119164500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Un Refugio Para El Amor</title>
+  </programme>
+  <programme start="20201119164500 +0000" stop="20201119173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Mi Marido Tiene Familia</title>
+  </programme>
+  <programme start="20201119173000 +0000" stop="20201119203000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201119203000 +0000" stop="20201119213000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Bella Calamidades</title>
+  </programme>
+  <programme start="20201119213000 +0000" stop="20201119221500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Lo Que La Vida Me Robó</title>
+  </programme>
+  <programme start="20201119221500 +0000" stop="20201119230000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Omer</title>
+  </programme>
+  <programme start="20201119230000 +0000" stop="20201119235800 +0000" channel="CANAL CARACOL">
+    <title lang="es">Tu Voz Estéreo</title>
+  </programme>
+  <programme start="20201119235800 +0000" stop="20201120000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201120000000 +0000" stop="20201120003000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticiero Del Senado</title>
+  </programme>
+  <programme start="20201120003000 +0000" stop="20201120013000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201120013000 +0000" stop="20201120023000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pasión De Gavilanes</title>
+  </programme>
+  <programme start="20201120023000 +0000" stop="20201120040000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20201120040000 +0000" stop="20201120043000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201120043000 +0000" stop="20201120050000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Preso No.1</title>
+  </programme>
+  <programme start="20201120050000 +0000" stop="20201120063000 +0000" channel="CANAL CARACOL">
+    <title lang="es">En Otra Piel</title>
+  </programme>
+  <programme start="20201120063000 +0000" stop="20201120091500 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20201120091500 +0000" stop="20201120100000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20201120100000 +0000" stop="20201120101400 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+  </programme>
+  <programme start="20201120101400 +0000" stop="20201120103000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+  </programme>
+  <programme start="20201120103000 +0000" stop="20201120143000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201120143000 +0000" stop="20201120160000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Día A Día</title>
+  </programme>
+  <programme start="20201120160000 +0000" stop="20201120164500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Un Refugio Para El Amor</title>
+  </programme>
+  <programme start="20201120164500 +0000" stop="20201120173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Mi Marido Tiene Familia</title>
+  </programme>
+  <programme start="20201120173000 +0000" stop="20201120203000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201120203000 +0000" stop="20201120213000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Bella Calamidades</title>
+  </programme>
+  <programme start="20201120213000 +0000" stop="20201120221500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Lo Que La Vida Me Robó</title>
+  </programme>
+  <programme start="20201120221500 +0000" stop="20201120230000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Omer</title>
+  </programme>
+  <programme start="20201120230000 +0000" stop="20201121000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Tu Voz Estéreo</title>
+  </programme>
+  <programme start="20201121000000 +0000" stop="20201121013000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201121013000 +0000" stop="20201121023000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pasión De Gavilanes</title>
+  </programme>
+  <programme start="20201121023000 +0000" stop="20201121040000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pedro El Escamoso</title>
+  </programme>
+  <programme start="20201121040000 +0000" stop="20201121043000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201121043000 +0000" stop="20201121050000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Preso No.1</title>
+  </programme>
+  <programme start="20201121050000 +0000" stop="20201121063000 +0000" channel="CANAL CARACOL">
+    <title lang="es">En Otra Piel</title>
+  </programme>
+  <programme start="20201121063000 +0000" stop="20201121100000 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20201121100000 +0000" stop="20201121110000 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+  </programme>
+  <programme start="20201121110000 +0000" stop="20201121120000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+  </programme>
+  <programme start="20201121120000 +0000" stop="20201121123000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Doble Vía</title>
+  </programme>
+  <programme start="20201121123000 +0000" stop="20201121133000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+  </programme>
+  <programme start="20201121133000 +0000" stop="20201121153000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pura Diversión: Free Birds</title>
+  </programme>
+  <programme start="20201121153000 +0000" stop="20201121173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pura Diversión: The Adventures Of Tintin</title>
+  </programme>
+  <programme start="20201121173000 +0000" stop="20201121200000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201121200000 +0000" stop="20201121230000 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20201121230000 +0000" stop="20201122000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Se Dice De Mi</title>
+  </programme>
+  <programme start="20201122000000 +0000" stop="20201122013000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201122013000 +0000" stop="20201122040000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Sábados Felices</title>
+  </programme>
+  <programme start="20201122040000 +0000" stop="20201122050000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Entre Ojos</title>
+  </programme>
+  <programme start="20201122050000 +0000" stop="20201122063000 +0000" channel="CANAL CARACOL">
+    <title lang="es">En Otra Piel</title>
+  </programme>
+  <programme start="20201122063000 +0000" stop="20201122100000 +0000" channel="CANAL CARACOL">
+    <title lang="es">También Caerás</title>
+  </programme>
+  <programme start="20201122100000 +0000" stop="20201122110000 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Finca De Hoy</title>
+  </programme>
+  <programme start="20201122110000 +0000" stop="20201122113000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+  </programme>
+  <programme start="20201122113000 +0000" stop="20201122120000 +0000" channel="CANAL CARACOL">
+    <title lang="es">El Mundo Visto Desde El Vaticano</title>
+  </programme>
+  <programme start="20201122120000 +0000" stop="20201122140000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+  </programme>
+  <programme start="20201122140000 +0000" stop="20201122141500 +0000" channel="CANAL CARACOL">
+    <title lang="es">Angelus Desde El Vaticano</title>
+  </programme>
+  <programme start="20201122141500 +0000" stop="20201122150000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20201122150000 +0000" stop="20201122153000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Cuentos De Los Hermanos Grimm</title>
+  </programme>
+  <programme start="20201122153000 +0000" stop="20201122173000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Pura Diversión: Greyfriars Bobby</title>
+  </programme>
+  <programme start="20201122173000 +0000" stop="20201122200000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
+  <programme start="20201122200000 +0000" stop="20201122220000 +0000" channel="CANAL CARACOL">
+    <title lang="es">La Red</title>
+  </programme>
+  <programme start="20201122220000 +0000" stop="20201122230000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Expediente Final</title>
+  </programme>
+  <programme start="20201122230000 +0000" stop="20201123000000 +0000" channel="CANAL CARACOL">
+    <title lang="es">Suso´s Show</title>
+  </programme>
+</tv>
